@@ -22,10 +22,10 @@ Python
 ## Features
 
 - SVM(RBF,Sigmoid,Linear,Poly) used to classify the dataset
-- F-1 score,precision,recall
-- Visualisation of the dataset 
-- Confusion matrix
-- Classification report 
+- Calculation of F-1 score,precision and recall
+- Visualisation of the dataset using seaborn and matplotlib 
+- Display of Confusion matrix
+- Display of Classification report 
 
 
 
