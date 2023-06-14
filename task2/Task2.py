@@ -16,7 +16,7 @@ def get_api_response(prompt: str) -> str | None:#creating a function that return
             stop=[' You:', ' AI:']
         )
 
-        choices: dict = response.get('choices')[0]
+        choices: dict = response.get('choices')[0]#storing the response in a dictionary
         text = choices.get('text')
 
     except Exception as e:
