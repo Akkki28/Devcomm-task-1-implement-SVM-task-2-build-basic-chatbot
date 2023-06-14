@@ -21,7 +21,7 @@ Python
 
 ## Features
 
-- SVM(rbf,sigmoid,linear,poly) used to classify the dataset
+- SVM(RBF,Sigmoid,Linear,Poly) used to classify the dataset
 - F-1 score,precision,recall
 - Visualisation of the dataset 
 - Confusion matrix
